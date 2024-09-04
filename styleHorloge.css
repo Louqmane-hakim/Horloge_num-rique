@@ -1,0 +1,19 @@
+body{
+    min-height: 100vh;
+    background: antiquewhite;
+
+}
+.main{
+    background:white;
+    max-width: 700px;
+    height: 200px;
+    margin: 10rem auto;
+    box-shadow: 0 5px 5px gainsboro;
+
+}
+.Horloge{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    line-height: 200px;
+    text-align: center;
+}
